@@ -40,4 +40,4 @@ public class Lecture1Part2MethodsRecap {
 		return answer;
 	} // end  of getShoeAverage method
  
-}
+} // end of class
