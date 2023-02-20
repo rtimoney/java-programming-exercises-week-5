@@ -13,7 +13,7 @@ public class Lecture1Part1Exponent {
 		
 		answer = exponentCalculatorUsingForLoop(b,e);
 		System.out.println(answer);
-	}
+	} // end of main method
 
 	public static double exponentCalculator(double base, double exponent) {
 		return Math.pow(base, exponent);
