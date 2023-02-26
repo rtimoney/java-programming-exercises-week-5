@@ -12,7 +12,7 @@ public class Lecture2Part1EnhancedForLoop {
 		// the enhanced for loop will go through every index position without an evaluation
 		for (int number : list) {
 			System.out.println("Value : "+number);
-		}
+		} // end of for loop
 		
 	}
 
