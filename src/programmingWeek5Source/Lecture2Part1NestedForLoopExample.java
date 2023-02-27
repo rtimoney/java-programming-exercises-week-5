@@ -23,7 +23,7 @@ public class Lecture2Part1NestedForLoopExample {
 				System.out.print("*");
 			}
 		*/	System.out.println();
-		}
+		} //
 		
 
 	}
