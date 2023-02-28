@@ -16,7 +16,7 @@ public class Lecture2Part2ArraysContinued {
 			myMultiList[row][col] = 1;
 		}  System.out.println(" ");
 		System.out.println("---------------");
-	}
+	} //  
 	
 		// printing
 		for (int row=0; row<3;row++) {
