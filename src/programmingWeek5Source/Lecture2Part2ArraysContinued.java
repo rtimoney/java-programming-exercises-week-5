@@ -21,7 +21,7 @@ public class Lecture2Part2ArraysContinued {
 		// printing
 		for (int row=0; row<3;row++) {
 				System.out.println(Arrays.toString(myMultiList[row]));
-			} 
+			} // 
 */
 
 	 System.out.println();
