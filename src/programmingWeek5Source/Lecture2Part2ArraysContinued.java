@@ -44,5 +44,5 @@ public class Lecture2Part2ArraysContinued {
 System.out.println("Number of rows : "+myMultiList.length);
 System.out.println("Number of columns : "+myMultiList[0].length);
 		
-	}
+	} //
 }
