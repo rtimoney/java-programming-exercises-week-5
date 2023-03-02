@@ -14,6 +14,6 @@ public class Lecture2Part2DontReinventTheWheel {
 		Arrays.sort(array);
 	System.out.println("Sorted: "+Arrays.toString(array));
 
-	}
+	} // end of main
 
 }
