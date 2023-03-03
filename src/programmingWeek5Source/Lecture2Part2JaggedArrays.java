@@ -21,7 +21,7 @@ public class Lecture2Part2JaggedArrays {
 			for(int col=0; col<myJaggedArray[row].length; col++) {
 				System.out.print(myJaggedArray[row][col]+"  ");
 			} System.out.println();  // end of nested for loop 
-		}
+		} //
 		
 		
 			 System.out.println("End of code");
