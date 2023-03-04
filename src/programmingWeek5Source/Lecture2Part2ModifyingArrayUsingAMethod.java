@@ -30,7 +30,7 @@ public class Lecture2Part2ModifyingArrayUsingAMethod {
 		// show the now sorted Array
 		showArray(listA);
 		
-	} // end of the main method
+	} // end of the main method 
 	
 	// create a method which will print the array to screen
 	public static void showArray(int[] anArray) { // beginning of showArray method
