@@ -17,8 +17,8 @@ public class Week5QuizQuestion1 {
 			System.out.println(Arrays.toString(nums));
 			val++;
 			count++;
-		}
+		} // end of while loop
 System.out.println(Arrays.toString(nums));
-	}
+	} // 
 
 }
