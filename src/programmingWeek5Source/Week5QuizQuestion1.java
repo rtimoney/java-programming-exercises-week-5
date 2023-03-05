@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class Week5QuizQuestion1 {
 
 	public static void main(String[] args) {
+
+		// declare vars
 		int[] nums = new int[5];
 		int count = 0;
 		int val = 1;
