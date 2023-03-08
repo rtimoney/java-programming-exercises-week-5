@@ -30,7 +30,7 @@ public class Lecture1Part2MethodsRecap {
 		for(int i = 0; i<myArray.length; i++){
 			System.out.printf("%5d%8d%n", i ,myArray[i]);
 		}// end of for loop 
-	} // end of main method
+	} // end of main method 
 	
 
 	
