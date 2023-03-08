@@ -12,6 +12,7 @@ public class Lecture1Part2MethodsRecap {
 		
 		String myString = "Rpnan";
 		System.out.println(myString);
+
 		
 		double answer = getShoeAverage(5, 6, 10, 12, 11, 1);
 		
