@@ -23,6 +23,7 @@ public class Lecture1Part2MethodsRecap {
 		int[] myArray = new int[11]; // 11 = how many elements of type int are going to be integrated 
 		
 		
+
 		
 		for(int i = 0; i<myArray.length; i++){
 		myArray[i] = i+2;
