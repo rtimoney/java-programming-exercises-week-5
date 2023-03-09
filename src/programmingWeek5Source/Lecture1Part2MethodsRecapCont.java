@@ -11,6 +11,6 @@ public class Lecture1Part2MethodsRecapCont {
 		for (int i=0; i< secondArray.length; i++) {
 			System.out.printf("%5d%8d%n",i, secondArray[i]);
 		} //
-	} //
+	} // 
 
 } //    
