@@ -11,7 +11,7 @@ public class Lecture2Part1NestedForLoopExample {
 				
 			}  System.out.println(" ");
 			System.out.println("---------------");
-		} // 
+		} //  
 		
 		
 		
