@@ -6,7 +6,7 @@ public class Lecture2Part2ModifyingArrayUsingAMethod {
 
 	public static void main(String[] args) {
 		
-		// create the array 
+		// create the array  
 		int [] listA = new int[] {26,6,22,8};
 		
 		// create a method which will print the array to screen - see method showArray
