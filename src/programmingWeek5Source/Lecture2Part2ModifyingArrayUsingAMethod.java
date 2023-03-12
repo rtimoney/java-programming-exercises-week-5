@@ -16,7 +16,7 @@ public class Lecture2Part2ModifyingArrayUsingAMethod {
 		System.out.println(); 
 		
 		// create a method which will *2 each value in the array - see method doubleUp
-		// call doubleUp to main method 
+		// call doubleUp to main method  
 		doubleUp(listA);
 		
 		
