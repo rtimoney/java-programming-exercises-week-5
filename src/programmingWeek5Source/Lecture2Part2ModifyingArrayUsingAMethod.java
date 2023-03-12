@@ -37,7 +37,7 @@ public class Lecture2Part2ModifyingArrayUsingAMethod {
 		for (int i=0; i< anArray.length; i++) { // beginning of for loop
 			for(int j=0; j<1; j++) {
 				System.out.print("|");
-				}
+				} //
 			System.out.print(anArray[i]+" ");
 		} // end of for loop
 		System.out.println("|"); 
