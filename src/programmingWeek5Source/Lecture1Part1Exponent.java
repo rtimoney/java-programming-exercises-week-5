@@ -27,5 +27,5 @@ public class Lecture1Part1Exponent {
 					answ = answ * base;
 				}
 			return answ;
-	} //  12
+	} //  123
 }
