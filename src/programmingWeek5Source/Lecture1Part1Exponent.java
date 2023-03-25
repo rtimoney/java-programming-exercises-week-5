@@ -28,4 +28,4 @@ public class Lecture1Part1Exponent {
 				}
 			return answ;
 	} //  12
-}
+
