@@ -27,6 +27,6 @@ public class Lecture1Part1Exponent {
 					answ = answ * base;
 				}
 			return answ;
-	} //  1
+	} //  
 
 				}
