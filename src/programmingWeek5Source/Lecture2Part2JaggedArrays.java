@@ -45,4 +45,4 @@ public class Lecture2Part2JaggedArrays {
 		System.out.println("Number of columns : "+myMultiListJagged[0].length);
 */ 				
 			} //   
-		} // 
+		} //  
