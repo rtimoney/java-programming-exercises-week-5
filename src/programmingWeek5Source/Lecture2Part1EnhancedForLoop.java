@@ -14,7 +14,7 @@ public class Lecture2Part1EnhancedForLoop {
 			System.out.println("Value : "+number);
 		} // end of for loop
 		
-	} //
+	} // 
 
 } //   
  
