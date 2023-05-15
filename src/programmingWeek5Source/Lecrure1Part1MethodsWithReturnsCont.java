@@ -30,7 +30,7 @@ public class Lecrure1Part1MethodsWithReturnsCont {
 			System.out.println("Hello stranger!");
 		} else {
 			System.out.println("Hello " + name);
-		} //    
+		} //   
 		
 		
 		
