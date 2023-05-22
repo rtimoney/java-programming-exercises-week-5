@@ -13,7 +13,7 @@ public class Lecrure1Part1MethodsWithReturnsCont {
 		bigNum = biggestNumber(3, 4);
 	    System.out.println(bigNum);
 		
-	    // second output
+	    // second output 
 		System.out.println(biggestNumber(2002, 900));
 		// third output 
 		System.out.println(biggestNumber(15, 900));
