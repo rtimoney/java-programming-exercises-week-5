@@ -3,7 +3,7 @@ package programmingWeek5Source;
 public class Lecture1Part1Exponent {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 
 		double b, e;
 		b=8;
