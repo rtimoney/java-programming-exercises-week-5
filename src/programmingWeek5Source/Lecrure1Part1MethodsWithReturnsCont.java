@@ -9,7 +9,7 @@ public class Lecrure1Part1MethodsWithReturnsCont {
 		// TODO Auto-generated method stub
 		int bigNum;
 		
-		//first output  
+		//first output   
 		bigNum = biggestNumber(3, 4);
 	    System.out.println(bigNum);
 		
