@@ -1,7 +1,7 @@
 package programmingWeek5Source;
 
 public class Lecture1Part2MethodsRecap {
-// Shoe Size exercise
+// Shoe Size exercise 
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
