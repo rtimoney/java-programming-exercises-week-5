@@ -8,7 +8,7 @@ public class Lecture2Part2ArraysContinued {
 		
 		int [][] myMultiList = new int [3][4];
 /*
-		// assign a value if 1
+		// assign a value if 1 
 		for (int row=0; row<3;row++) {
 		for (int col=0;col<4;col++) {
 			// System.out.print(myMultiList[row][col]+" | ");
